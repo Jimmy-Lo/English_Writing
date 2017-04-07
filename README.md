@@ -18,3 +18,4 @@ Where you find the appropriate words and expressions for your paper.
 14. Even the reader who has seen these topics before should skim the next two sections.
 15. That book covered the theory in greater depth but at a similar level of exposition to this book.
 16. Stringent power control requirements.
+17. The inherent benefits ...
