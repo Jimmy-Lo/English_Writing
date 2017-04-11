@@ -10,7 +10,7 @@ Where you find the appropriate words and expressions for your paper.
 6. Some pitfalls to be aware of.
 7. This issue should not be taken lightly.
 8. This brings us full circle in our discussion of public-key cryptography.
-9. One approach to alleviating these issues is to rely on multiple CAs.
+9. One approach to alleviate these issues is to rely on multiple CAs.
 10. As a culmination of what we have covered in the book so far.
 11. It is possible that these schemes (or variants thereof) will be used more widely.
 12. Modern cryptosystems are invariably based on an assumption that some problem is hard.
