@@ -23,3 +23,4 @@ Where you find the appropriate words and expressions for your paper.
 19. The student won't be the only one agonizing over which Ivy League school to choose this fall.
 20. But he's leaning toward Princeton, Standfor or MIT.
 21. The signals are seriously perturbed while propagating.
+22. The results lead to more efficient methods than those have been proposed heretofore.
