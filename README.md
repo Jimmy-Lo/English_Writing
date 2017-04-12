@@ -27,3 +27,4 @@ Where you find the appropriate words and expressions for your paper.
 23. The first strategy entails computing in advance the indices for every conceivable state
 24. He obviates the neccessity of providing him with an umbrella.
 25. In this work, our aim is two fold. ... and ...
+26. our task is to devise a strategy to maximize our winnings.
