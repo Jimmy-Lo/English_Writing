@@ -29,3 +29,4 @@ Where you find the appropriate words and expressions for your paper.
 25. In this work, our aim is two fold. ... and ...
 26. our task is to devise a strategy to maximize our winnings.
 27. But that’s a bit verbose, especially if you need to modify local variables. 
+28. The quintessential example of a deep learning model is the feedforward deep network.
