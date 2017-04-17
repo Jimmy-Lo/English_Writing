@@ -30,3 +30,4 @@ Where you find the appropriate words and expressions for your paper.
 26. our task is to devise a strategy to maximize our winnings.
 27. But that’s a bit verbose, especially if you need to modify local variables. 
 28. The quintessential example of a deep learning model is the feedforward deep network.
+29. Mitchell provides a succinct definition about maching learning.
