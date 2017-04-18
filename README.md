@@ -34,3 +34,4 @@ Where you find the appropriate words and expressions for your paper.
 30. Several proposed approaches have yet to entirely bear fruit.
 31. This is a broad category and subsumes the transcription and translation tasks described above.
 32. Deep learning garnered additional interest in industry.
+33. The coordinates on a chart allow one to carry out computations as though in a Euclidean space
