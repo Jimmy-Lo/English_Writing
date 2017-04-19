@@ -36,3 +36,4 @@ Where you find the appropriate words and expressions for your paper.
 32. Deep learning garnered additional interest in industry.
 33. The coordinates on a chart allow one to carry out computations as though in a Euclidean space
 34. Manifold learning algorithms surmount this obstacle by ......
+35. But among these myriad inventions and discoveries, mobile communications stands out as a giant.
