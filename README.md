@@ -39,3 +39,4 @@ Where you find the appropriate words and expressions for your paper.
 35. But among these myriad inventions and discoveries, mobile communications stands out as a giant.
 36. But and interesting nuance that I discovered while testing is that a perfect player must always be perfect.
 37. As the capabilities of a given technology approach saturation.
+38. The layered approach accommodates incremental changes much more readily.
