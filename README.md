@@ -40,3 +40,4 @@ Where you find the appropriate words and expressions for your paper.
 36. But and interesting nuance that I discovered while testing is that a perfect player must always be perfect.
 37. As the capabilities of a given technology approach saturation.
 38. The layered approach accommodates incremental changes much more readily.
+39. Much of the complexity in cellular telephony results from the need to track the location of the mobile station.
