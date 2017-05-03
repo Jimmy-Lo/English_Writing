@@ -45,3 +45,4 @@ Where you find the appropriate words and expressions for your paper.
 41. The move away from single providers of network services and manufactures of equipment made compliance with recognized standards essential.
 42. The equation is intractable when n is large.
 43. Suppressing the fixed parameters, the posterior distribution can be stated as......
+44. There are two learning phases, the “wake” phase and the “sleep” phase, which are performed alternately.
