@@ -44,3 +44,4 @@ Where you find the appropriate words and expressions for your paper.
 40. The base station has an antenna that is used to communicate with mobile users in its vicinity.
 41. The move away from single providers of network services and manufactures of equipment made compliance with recognized standards essential.
 42. The equation is intractable when n is large.
+43. Suppressing the fixed parameters, the posterior distribution can be stated as......
