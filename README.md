@@ -43,3 +43,4 @@ Where you find the appropriate words and expressions for your paper.
 39. Much of the complexity in cellular telephony results from the need to track the location of the mobile station.
 40. The base station has an antenna that is used to communicate with mobile users in its vicinity.
 41. The move away from single providers of network services and manufactures of equipment made compliance with recognized standards essential.
+42. The equation is intractable when n is large.
