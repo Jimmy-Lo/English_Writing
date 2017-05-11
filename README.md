@@ -53,3 +53,4 @@ Where you find the appropriate words and expressions for your paper.
 49. A large portion of the assigned spectrum is used sporadically.
 50. Network information theory is a challenging field with a plethora of open questions.
 51. We have showcased a number of results relating to the fundamental communication limits in cognitive networks.
+52. Based on this exposition, it is clear that research on data fusion systems is becoming more and more common-place.
