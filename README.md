@@ -54,3 +54,4 @@ Where you find the appropriate words and expressions for your paper.
 50. Network information theory is a challenging field with a plethora of open questions.
 51. We have showcased a number of results relating to the fundamental communication limits in cognitive networks.
 52. Based on this exposition, it is clear that research on data fusion systems is becoming more and more common-place.
+53. The lack of common engineering standards for data fusion systems has been a major impediment to integration and re-use of available technology
