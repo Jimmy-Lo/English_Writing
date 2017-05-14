@@ -56,3 +56,4 @@ Where you find the appropriate words and expressions for your paper.
 52. Based on this exposition, it is clear that research on data fusion systems is becoming more and more common-place.
 53. The lack of common engineering standards for data fusion systems has been a major impediment to integration and re-use of available technology
 54. The plural form of "formula" is "formulae".
+55. NSF-funded researchers have won some 223 Nobel Prizes as well as other honors too numerous to list.
