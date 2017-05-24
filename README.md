@@ -57,3 +57,4 @@ Where you find the appropriate words and expressions for your paper.
 53. The lack of common engineering standards for data fusion systems has been a major impediment to integration and re-use of available technology
 54. The plural form of "formula" is "formulae".
 55. NSF-funded researchers have won some 223 Nobel Prizes as well as other honors too numerous to list.
+56. Standardization initiatives such as the IEEE 802.22 and the IEEE SCC41 are now approaching fruition.
