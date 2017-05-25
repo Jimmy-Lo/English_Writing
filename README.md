@@ -58,3 +58,4 @@ Where you find the appropriate words and expressions for your paper.
 54. The plural form of "formula" is "formulae".
 55. NSF-funded researchers have won some 223 Nobel Prizes as well as other honors too numerous to list.
 56. Standardization initiatives such as the IEEE 802.22 and the IEEE SCC41 are now approaching fruition.
+57. our framework captures the salient aspects of each attack.
