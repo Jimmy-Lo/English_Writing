@@ -60,3 +60,4 @@ Where you find the appropriate words and expressions for your paper.
 56. Standardization initiatives such as the IEEE 802.22 and the IEEE SCC41 are now approaching fruition.
 57. our framework captures the salient aspects of each attack.
 58. Note that whereas calculating the high-dimensional x requires O(n^2) time, finding K(x,z) takes only O(n) time.
+59. Our goal is to assist the readers in refining the motivation, problem formulation, and methodology of powerful machine learning algorithms in the context of future networks in order to tap into hitherto unexlored applicaations and services.
