@@ -1,3 +1,6 @@
+# Links
+[The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf)
+[How to Present a Paper-by Leslie Lamport](https://www.microsoft.com/en-us/research/publication/how-to-present-a-paper/)
 # Vocabulary
 Where you find the appropriate words and expressions for your paper.
 
