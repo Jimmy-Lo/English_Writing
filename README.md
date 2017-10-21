@@ -1,10 +1,12 @@
 # Links
+You might surprise how insightful these links might be.
+
 ***
 1. [The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf).
 2. [How to Present a Paper-by Leslie Lamport](https://www.microsoft.com/en-us/research/publication/how-to-present-a-paper/)
 
 # Vocabulary
-Where you find the appropriate words and expressions for your paper.
+Where I found some interesting words and expressions for the academic paper.
 
 ***
 1. It suffices to prove A in order to address the problem of B.
