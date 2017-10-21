@@ -1,5 +1,5 @@
 # Links
-You might surprise how insightful these links might be.
+You might be surprise of how insightful these links are.
 
 ***
 1. [The Elements of Style](https://faculty.washington.edu/heagerty/Courses/b572/public/StrunkWhite.pdf).
